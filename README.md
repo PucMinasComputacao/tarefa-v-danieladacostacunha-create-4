@@ -1,9 +1,10 @@
-<<<<<<< HEAD
 DANIEL COSTA MATRICULA:918061
 <img src="./img/image.png">
 <img src="./img/image-2.png">
-=======
+-site esolhido fo8i um de roupas, nao sei se a atividade esta 100 correta, tive dificuldades
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/z9sTQdL4)
+
 # Trabalho Prático - Semana 5
 
 Dessa vez, vamos dar sequência ao projeto iniciado na semana passada. Se você ainda não fez o projeto da semana anterior, fique atento, se programe e procure colocar as atividades em dia. Volte lá, leia tudo e faça sua parte pois essa atividade depende da atividade anterior..
@@ -27,6 +28,4 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
->>>>>>> 3c836f15156b7de22882b8df6d54fe208d3c78a6
+(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print.
